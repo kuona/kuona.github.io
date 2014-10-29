@@ -4,7 +4,7 @@ email: graham@grahambrooks.com
 description: > # this means to ignore newlines until "baseurl:"
   Continous Delivery and Continuous Integration systems need
   dashboards that not only show the current state of projects but also
-  track trends and show how well your system is performaing. Kuona
+  track trends and show how well your system is performing. Kuona
   intends to provide that capability.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
