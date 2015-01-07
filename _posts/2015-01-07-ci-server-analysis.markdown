@@ -23,7 +23,7 @@ Short builds are important to make sure the feedback is delivered quickly...
 
 Build outcomes. Success and failure are useful. A high proportion of failures or successes might indicate a problem.
 
-![Build by result](/iamgs/screen-shots/kuona-build-by-result-700.png)
+![Build by result](/images/screen-shots/kuona-build-by-result-700.png)
 
 What caused the builds
 
