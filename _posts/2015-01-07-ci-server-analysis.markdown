@@ -15,7 +15,7 @@ Here are some example screen shots from my Jenkins CI server that I use for pers
 
 First off the activity chart - shows the number of builds per month for the last year.
 
-![Build activity](images/screen-shots/kuona-build-activity-700.png)
+![Build activity](/images/screen-shots/kuona-build-activity-700.png)
 
 Short builds are important to make sure the feedback is delivered quickly...
 
