@@ -35,3 +35,6 @@ image:
     half:
       width: 400
       height: 400
+
+gems:
+  gem "mini_magick"
