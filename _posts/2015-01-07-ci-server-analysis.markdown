@@ -11,23 +11,24 @@ of the system.
 
 Here are some example screen shots from my Jenkins CI server that I use for personal projects.
 
-{% image 700xAUTO screen-shots/kuona-build-summary-page.png alt="Server summary page" %}
+![Server summary page](/images/screen-shots/kuona-build-summary-page-700.png)
 
 First off the activity chart - shows the number of builds per month for the last year.
-{% image 700xAUTO screen-shots/kuona-build-activity.png alt="Build activity" %}
+
+![Build activity](images/screen-shots/kuona-build-activity-700.png)
 
 Short builds are important to make sure the feedback is delivered quickly...
 
-{% image 700xAUTO screen-shots/kuona-build-by-duration.png alt="Build by duration" %}
+![Build by duration](/images/screen-shots/kuona-build-by-duration-700.png)
 
 Build outcomes. Success and failure are useful. A high proportion of failures or successes might indicate a problem.
 
-{% image 700xAUTO screen-shots/kuona-build-by-result.png alt="Build by result" %}
+![Build by result](/iamgs/screen-shots/kuona-build-by-result-700.png)
 
 What caused the builds
 
-{% image 700xAUTO screen-shots/kuona-build-by-trigger.png alt="Builds by trigger" %}
+![Builds by trigger](/images/screen-shots/kuona-build-by-trigger-700.png)
 
 And finally where the data came from
 
-{% image 700xAUTO screen-shots/kuona-ci-server-summary.png alt="Server summary widget" %}
+![Server summary widget](/images/screen-shots/kuona-ci-server-summary-700.png)
